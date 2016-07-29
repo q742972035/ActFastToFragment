@@ -1,0 +1,3 @@
+# ActFastToFragment
+
+这是一个将activity逻辑快速切换到fragment的demo
